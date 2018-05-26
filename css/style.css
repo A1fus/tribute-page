@@ -16,6 +16,12 @@ p { text-align: center; }
   margin-right: auto;
 }
 
+.main-paragraph {
+  border-radius: 15px;
+  padding: 10px;
+  background-color: #e4e3e4;
+}
+
 #picture-box {
   border-radius: 15px;
   padding: 8px;
