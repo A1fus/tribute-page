@@ -11,12 +11,14 @@ h5 {
 .subtitle { text-align: center; }
 
 .block {
+  /* The positioning here could probably be done a lot better but it's a working first attempt */
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
 .main-paragraph {
+  /* This could also be done a lot better I'm sure */
   border-radius: 15px;
   margin-bottom: 100px;
   padding: 10px;
