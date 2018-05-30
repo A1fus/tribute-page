@@ -16,6 +16,9 @@ blockquote {
 
 footer {
   width: 100%;
+  padding-top: 25px;
+  margin-bottom: 25px;
+  background-color: #e4e3e4;
 }
 
 .subtitle { text-align: center; }
