@@ -44,6 +44,7 @@ footer {
 }
 
 .bottom {
+  border-radius: 15px;
   padding: 25px;
   background-color: #e4e3e4;
 }
