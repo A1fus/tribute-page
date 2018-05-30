@@ -49,14 +49,4 @@ footer {
   background-color: #e4e3e4;
 }
 
-.uno {
-  background-color: red;
-}
-
-.dos {
-  background-color: blue;
-}
-
-.tres {
-  background-color: green;
-}
+.gh { color: inherit; }
