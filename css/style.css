@@ -18,7 +18,6 @@ footer {
   width: 100%;
   padding-top: 25px;
   margin-bottom: 25px;
-  background-color: #e4e3e4;
 }
 
 .subtitle { text-align: center; }
@@ -33,7 +32,7 @@ footer {
 .main-paragraph {
   /* This could also be done a lot better I'm sure */
   border-radius: 15px;
-  margin-bottom: 100px;
+  margin-bottom: 25px;
   padding: 10px;
   background-color: #e4e3e4;
 }
@@ -44,3 +43,5 @@ footer {
   padding-top: 25px;
   background-color: #e4e3e4;
 }
+
+.bottom {  background-color: #e4e3e4; }
