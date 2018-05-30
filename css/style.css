@@ -8,6 +8,12 @@ h5 {
   color: #407f7f;
 }
 
+blockquote {
+  text-align: left;
+  font-family: 'Playfair Display', serif;
+  font-size: 50px;
+}
+
 .subtitle { text-align: center; }
 
 .block {
@@ -25,7 +31,7 @@ h5 {
   background-color: #e4e3e4;
 }
 
-#picture-box {
+.picture-box {
   border-radius: 15px;
   padding: 8px;
   padding-top: 25px;
