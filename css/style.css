@@ -19,7 +19,14 @@ footer {
   margin-bottom: 25px;
 }
 
-.subtitle { text-align: center; }
+figcaption { text-align: center; }
+
+figure {
+  border-radius: 15px;
+  padding: 8px;
+  padding-top: 25px;
+  background-color: #e4e3e4;
+}
 
 .block {
   /* The positioning here could probably be done a lot better but it's a working first attempt */
@@ -33,13 +40,6 @@ footer {
   border-radius: 15px;
   margin-bottom: 25px;
   padding: 10px;
-  background-color: #e4e3e4;
-}
-
-.picture-box {
-  border-radius: 15px;
-  padding: 8px;
-  padding-top: 25px;
   background-color: #e4e3e4;
 }
 
